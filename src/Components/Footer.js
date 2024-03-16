@@ -10,12 +10,13 @@ function Footer() {
         <div className="ft-info">
           <div className="ft-info-p1">
             <p className="ft-title">
-              Health <span className="ft-sign">+</span>
+              Bliss Child Care & Vaccination Center{" "}
+              <span className="ft-sign">+</span>
             </p>
             <p className="ft-description">
               Talk to online doctors and get medical advice, online
               prescriptions, refills and medical notes within minutes. On-demand
-              healthcare services at your fingertips.
+              healthcare services at your fingertips for your baby.
             </p>
           </div>
 
@@ -28,8 +29,8 @@ function Footer() {
             <li>
               <a href="#services">Emergency Care</a>
             </li>
-            <li>
-              <a href="#services">Heart Disease</a>
+            {/* <li> */}
+            {/* <a href="#services">Heart Disease</a>
             </li>
             <li>
               <a href="#services">Dental Care</a>
@@ -39,7 +40,7 @@ function Footer() {
             </li>
             <li>
               <a href="#services">Insights for doctors</a>
-            </li>
+            </li> */}
           </ul>
         </div>
 
@@ -58,37 +59,41 @@ function Footer() {
             <li>
               <Link to={"/legal"}>Consultations</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to={"/legal"}>How it Works</Link>
-            </li>
+            </li> */}
           </ul>
         </div>
 
         <div className="ft-list" id="contact">
           <p className="ft-list-title">Talk To Us</p>
           <ul className="ft-list-items">
-            <li>
+            {/* <li>
               <a href="mailto:support@healthplus.com">support@healthplus.com</a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a href="mailto:appointment@healthplus.com">
                 appointment@healthplus.com
               </a>
+            </li> */}
+            <li>
+              <a href="tel:+91 81495 60660">+91 81495 60660</a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
-            </li>
-            <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="tel:+91 97679 90066">+91 97679 90066</a>
             </li>
           </ul>
         </div>
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>
+          {" "}
+          © 2022-2024 Bliss Child Care & Vaccination Center+. All rights
+          reserved.
+        </p>
 
-        <ul className="ft-social-links">
+        {/* <ul className="ft-social-links">
           <li>
             <a
               href="https://linkedin.com/in/Alkaison/"
@@ -139,7 +144,7 @@ function Footer() {
               </svg>
             </a>
           </li>
-        </ul>
+        </ul> */}
       </div>
     </div>
   );

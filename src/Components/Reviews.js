@@ -34,18 +34,18 @@ function Reviews() {
     <div className="review-section" id="reviews">
       <div className="rw-text-content">
         <p className="rw-text-title">
-          More over <span className="rw-text-num">1500+ Customers</span>
+          More over <span className="rw-text-num">100+ Customers</span>
         </p>
 
         <p className="rw-text-desc">Don't believe us, Check clients word</p>
-
+        {/* 
         <p className="rw-text-format">
           <span className="rw-text-quote1">''</span>
           <span className="rw-review">{rMessage}</span>
           <span className="rw-text-quote2">''</span>
-        </p>
+        </p> */}
 
-        <div className="rw-authors">
+        {/* <div className="rw-authors">
           <div className="rw-names">
             <p className="rw-reviewer-name">{rName}</p>
             <p className="rw-reviewer-place">{rLocation}</p>
@@ -67,7 +67,7 @@ function Reviews() {
               →
             </button>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

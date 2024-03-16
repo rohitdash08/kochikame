@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Doctor from "../Assets/doctor-picture.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCalendarCheck, faAngleUp } from "@fortawesome/free-solid-svg-icons";
-import { useNavigate  } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "../Styles/Hero.css";
 
 function Hero() {
@@ -36,9 +36,9 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">❤️ Health comes first</p>
+          <p className="text-headline">❤️ Baby's Health comes first</p>
           <h2 className="text-title">
-            Find your Doctor and make an Appointments
+            Find your Doctor for your baby and make an Appointments
           </h2>
           <p className="text-descritpion">
             Talk to online doctors and get medical advice, online prescriptions,
@@ -54,12 +54,12 @@ function Hero() {
           </button>
           <div className="text-stats">
             <div className="text-stats-container">
-              <p>145k+</p>
+              <p>5k+</p>
               <p>Receive Patients</p>
             </div>
 
             <div className="text-stats-container">
-              <p>50+</p>
+              <p>5+</p>
               <p>Expert Doctors</p>
             </div>
 

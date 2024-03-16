@@ -15,27 +15,27 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
-          personalized healthcare. Our expert doctors offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
-          this journey towards a healthier you.
+          Welcome to Bliss Child Care & Vaccination Center, your trusted partner
+          for accessible and personalized child healthcare. Our expert doctors
+          offer online consultations and specialized services, prioritizing your
+          well-being. Join us on this journey towards a healthier baby.
         </p>
 
         <h4 className="about-text-title">Your Solutions</h4>
 
         <SolutionStep
           title="Choose a Specialist"
-          description="Find your perfect specialist and book with ease at Health Plus. Expert doctors prioritize your health, offering tailored care."
+          description="Find your perfect specialist for you baby and book with ease at Bliss Child Care. Expert doctors prioritize your health, offering tailored care."
         />
 
         <SolutionStep
           title="Make a Schedule"
-          description="Choose the date and time that suits you best, and let our dedicated team of medical professionals ensure your well-being with personalized care."
+          description="Choose the date and time that suits you best, and let our dedicated team of medical professionals ensure your well-being with personalized care for your baby."
         />
 
         <SolutionStep
           title="Get Your Solutions"
-          description="Our experienced doctors and specialists are here to provide expert advice and personalized treatment plans, helping you achieve your best possible health."
+          description="Our experienced doctors and specialists are here to provide expert advice and personalized treatment plans, helping you achieve your best possible health for you child."
         />
       </div>
     </div>
