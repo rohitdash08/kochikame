@@ -2,8 +2,6 @@ import React from "react";
 import DoctorCard from "./DoctorCard";
 import profile1 from "../Assets/profile1.jpg";
 import profile2 from "../Assets/profile2.jpg";
-import profile3 from "../Assets/profile-3.png";
-import profile4 from "../Assets/profile-4.png";
 import "../Styles/Doctors.css";
 
 function Doctors() {
@@ -38,20 +36,6 @@ function Doctors() {
           stars="4.8"
           reviews="3700"
         />
-        {/* <DoctorCard
-          img={profile3}
-          name="Dr. Jenny Wilson"
-          title="Endocrinologists"
-          stars="4.7"
-          reviews="450"
-        />
-        <DoctorCard
-          img={profile4}
-          name="Dr. Albert Flores"
-          title="Hematologists"
-          stars="4.8"
-          reviews="500"
-        /> */}
       </div>
     </div>
   );

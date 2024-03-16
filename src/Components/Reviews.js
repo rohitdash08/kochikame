@@ -38,36 +38,6 @@ function Reviews() {
         </p>
 
         <p className="rw-text-desc">Don't believe us, Check clients word</p>
-        {/* 
-        <p className="rw-text-format">
-          <span className="rw-text-quote1">''</span>
-          <span className="rw-review">{rMessage}</span>
-          <span className="rw-text-quote2">''</span>
-        </p> */}
-
-        {/* <div className="rw-authors">
-          <div className="rw-names">
-            <p className="rw-reviewer-name">{rName}</p>
-            <p className="rw-reviewer-place">{rLocation}</p>
-          </div>
-
-          <div className="rw-btns">
-            <button
-              className="rw-next-btn"
-              type="button"
-              onClick={backBtnClick}
-            >
-              ←
-            </button>
-            <button
-              className="rw-next-btn"
-              type="button"
-              onClick={frontBtnClick}
-            >
-              →
-            </button>
-          </div>
-        </div> */}
       </div>
     </div>
   );
