@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Health-Plus/static/css/main.e50df153.css",
-    "main.js": "/Health-Plus/static/js/main.ec6ef683.js",
+    "main.css": "/Health-Plus/static/css/main.870e4735.css",
+    "main.js": "/Health-Plus/static/js/main.130b5ac4.js",
     "static/media/profile2.jpg": "/Health-Plus/static/media/profile2.9202c84148d4b4bd8f82.jpg",
     "static/media/profile1.jpg": "/Health-Plus/static/media/profile1.fcdc99f6901495c0cebe.jpg",
     "static/media/doctor-picture.png": "/Health-Plus/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
     "static/media/doctor-group.png": "/Health-Plus/static/media/doctor-group.01394386d8270bd40bc1.png",
     "static/media/doctor-book-appointment.png": "/Health-Plus/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
     "index.html": "/Health-Plus/index.html",
-    "main.e50df153.css.map": "/Health-Plus/static/css/main.e50df153.css.map",
-    "main.ec6ef683.js.map": "/Health-Plus/static/js/main.ec6ef683.js.map"
+    "main.870e4735.css.map": "/Health-Plus/static/css/main.870e4735.css.map",
+    "main.130b5ac4.js.map": "/Health-Plus/static/js/main.130b5ac4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e50df153.css",
-    "static/js/main.ec6ef683.js"
+    "static/css/main.870e4735.css",
+    "static/js/main.130b5ac4.js"
   ]
 }
